@@ -1,6 +1,7 @@
 
 <h1>### Hi 👋</h1>
  I'm Almir Junior recently graduated in Analysis and Development and looking for opportunities and collaboration in projects related to data science and deep learning.
+ <hr/>
 - 🔭 I'm currently working with programming (besides, I'm improving my data structures and algorithms skills regularly).
 - 🌱 I am currently learning Computer Vision and Deep Learning techniques.
 
