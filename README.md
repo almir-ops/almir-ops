@@ -27,4 +27,4 @@
 **Utilities**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Vscode"/></code>
-<code><img height="32" src="https://img1.gratispng.com/20190208/ztx/kisspng-eclipse-foundation-integrated-development-environm-developer-archives-page-5-of-68-teknojurnal-5c5d2eab46e821.6708334215496106672904.jpg" alt="Eclipse"/></code>
+<code><img height="32" src="https://i.ibb.co/PYzxMjH/eclipse-icon.png" alt="Eclipse"/></code>
